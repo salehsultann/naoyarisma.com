@@ -1,0 +1,1 @@
+[{"image-link":"https:\/\/upload.wikimedia.org\/wikipedia\/tr\/b\/ba\/Nesibe_ayd\u0131n_spor.png","choices":["A","B","C"],"points":8},{"image-link":"https:\/\/sponsors.vuejs.org\/images\/nuxt.png","choices":["A","B","C"],"points":8}]
